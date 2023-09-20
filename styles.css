@@ -1,0 +1,59 @@
+/* Stijl voor header */
+.header {
+    background-color: #3498db;
+    text-align: center;
+    padding: 5px;
+}
+
+/* Stijl voor tabel */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* Stijl voor alle cellen */
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+/* Stijl voor achtergrondkleuren van cellen in kolom 1 en 3 */
+.kolom1, .kolom3 {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#cel1 { background-color: #FF5733;}
+#cel2 {background-color: #808080;}
+#cel3 { background-color: #33FF57; }
+#cel4 { background-color: #ffd700;}
+#cel5 { background-color: #5733FF;}
+#cel6 { background-color: #33FFA9; }
+#cel7 { background-color: #FFA933; }
+#cel8 { background-color: #A933FF;}
+#cel9 { background-color: #00ffff	; }
+#cel10 { background-color: #A9A9FF; }
+#cel11 { background-color: #FF33A9; }
+#cel12 { background-color: #556b2f; }
+#cel13 { background-color: #33A9FF;}
+#cel14 { background-color: #FFA9A9; }
+#cel15 { background-color: #AA33FF; }
+#cel16 { background-color: #A9FFA9; }
+
+/* Stijl voor afbeeldingen in cellen */
+.afbeelding img {
+    max-width: 20%;
+    height: auto;
+}
+/* Stijl voor de footer */
+.footer {
+    background-color: #f08080	; /* Kies uw gewenste achtergrondkleur */
+    text-align: center;
+    padding: 5px;
+}
+
+/* Stijl voor de tekst in de footer */
+.footer p {
+    color:black; /* Tekstkleur aanpassen indien nodig */
+    font-weight: bold;
+}
